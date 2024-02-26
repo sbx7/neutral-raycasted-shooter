@@ -38,6 +38,3 @@ Player customization
 
 Online play with Cloudlink (probably)
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
