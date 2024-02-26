@@ -1,8 +1,10 @@
 # Neutral Raycasted shooter
 A raycaster shooter that sucks and has wall running (not done)
+Install the .html file and run to play
 
 # Language
-It's built for turbowarp, doesn't use scratch or it won't work (custom turbowarp)
+It's built for turbowarp, doesn't use scratch or it won't work (custom turbowarp plugins)
+Download turbowarp here (web editor available) desktop.turbowarp.org
 
 # Alpha Timeline
 
