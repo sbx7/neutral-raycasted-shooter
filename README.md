@@ -8,6 +8,8 @@ It's built for turbowarp, doesn't use scratch or it won't work (custom turbowarp
 
 [Download turbowarp here to work with the source code (web app also available)](https://desktop.turbowarp.org/)
 
+the .sb3 file is the source code
+
 # Alpha Timeline
 
 ✅Basic raycasting
