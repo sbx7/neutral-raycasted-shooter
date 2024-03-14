@@ -1,7 +1,7 @@
 # Neutral Raycasted shooter
 A raycaster shooter that sucks and has wall running (not done)
 
-#How to play
+# How to play
 Download the HTML file it's that simple
 
 You can also compile the source code to other formats (I would add the game as a application here but there's file size limits)
